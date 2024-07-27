@@ -14,3 +14,4 @@ ReimaginedEngine is being used for an active mod called "Friday of Reflection: R
 
 ### HellEngine (v0.3.2_OR)
 HellEngine is being used for ongoing project called "PROJECT: HazbinMod" or alternatively "Friday Night at Hazbin Hotel". This mod is being developed and directed by Doe (hxida/me) and HELL DEVELOPMENT.
+This mod also uses a custom built HaxeFlixel.
