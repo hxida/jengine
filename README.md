@@ -1,7 +1,7 @@
 # John Engine v0.9.0
 John Engine: From Psych Engine Source
 
-John Engine or with it's old name John's Psych Engine, is a modified version of Psych Engine.
+John Engine or with it's old name John's Psych Engine, is a modified version of Psych Engine. It is being developed by Doe (hxida/me).
 As it says, it is mainly based on Psych Engine source.
 John Engine also has several sub-engines that are popular or well-known, such as:
 
