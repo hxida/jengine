@@ -7,8 +7,8 @@ John Engine also has several sub-engines that are popular or well-known, such as
 
 ## RELEASED
 
-### ReimaginedEngine (v0.1.6)
-ReimaginedEngine is being used for an active mod called "Friday of Reflection: Reimagined" which is being directed by N4KXR and TimRedGamerYT, with active LUA Scrpiter DragShot.
+### ReimaginedEngine (v0.1.7)
+ReimaginedEngine is being used for an active mod called "Friday of Reflection: Reimagined" which is being directed by N4KXR and TimRedGamerYT, with active LUA Scrpiter DragShot. This engine is also based on "HellEngine" so, this one's kinda a Beta release of HellEngine.
 Link: https://github.com/hxida/ReimaginedEngine
 
 ## UNRELEASED / UNDER DEVELOPMENT
