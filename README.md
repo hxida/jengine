@@ -16,3 +16,4 @@ Link: https://github.com/hxida/ReimaginedEngine
 ### HellEngine (v0.3.2_OR)
 HellEngine is being used for ongoing project called "PROJECT: HazbinMod" or alternatively "Friday Night at Hazbin Hotel". This mod is being developed and directed by Doe (hxida/me) and HELL DEVELOPMENT.
 This mod also uses a custom built HaxeFlixel.
+Additionally, this engine is being used for the development of "ReimaginedEngine".
